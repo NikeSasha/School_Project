@@ -20,3 +20,5 @@ Building Escape — це проста гра про втечу з кімнати
 2) Відкрити файл BildingEscapeGame з роширенням UPROJECT
 3) У вікні середовиша у верхній панелі нажати кнопку з назвою Play
 4) Насолоджуйтесь!
+
+Це посилання на Гугл-диск з файлами: (в разі проблеми з гітхабом)https://drive.google.com/drive/folders/1KBO-xTSjAaYjrAywrDSStBdyBjlHpbrp?usp=sharing
