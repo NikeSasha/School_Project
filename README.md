@@ -28,3 +28,5 @@ Building Escape — це проста гра про втечу з кімнати
 Вихід з гри
 
 Щоб вийти з гри потрібно натиснути Esc, потім Win і натиснути хрестик у правому верхньому куті
+
+Це посилання на Гугл-диск з усіма файлами проекту: https://drive.google.com/drive/folders/1KBO-xTSjAaYjrAywrDSStBdyBjlHpbrp?usp=sharing
